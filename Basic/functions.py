@@ -9,3 +9,12 @@ def print_hello():
 
 
 print_hello()
+
+
+# parameters
+def print_name(name):
+    print(name)
+    
+#arguments
+print_name("John Smith")
+
