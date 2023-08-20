@@ -19,3 +19,9 @@ while 0 > 10:
     break
 else:
     print("false")
+
+
+while 0 < 10:
+    userName = input("Enter your name: ")
+    break
+print(f"Hello {userName}")
