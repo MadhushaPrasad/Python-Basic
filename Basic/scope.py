@@ -43,7 +43,6 @@ def my_method():
     # example:
 total = 100
 
-
 def my_method():
     total = 10
     # total is in the local scope and is accessible only inside the function
