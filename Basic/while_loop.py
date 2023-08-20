@@ -13,3 +13,9 @@ while True:
 while 1 == 1:
     print("Hello World")
     break
+
+while 0 > 10:
+    print("Hello World")
+    break
+else:
+    print("false")
