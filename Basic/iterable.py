@@ -14,3 +14,8 @@ for item in user.values():
 
 for item in user.keys():
     print(item)
+
+
+for item in user.keys():
+    key, value = item
+    print(key, value)
