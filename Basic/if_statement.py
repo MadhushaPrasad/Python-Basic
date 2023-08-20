@@ -1,7 +1,12 @@
-is_old = True
-is_licenced = True
+# is_old = True
+# is_licenced = True
 
-if is_old :
+is_old = bool("hello")
+is_licenced = bool(5)
+
+# Truthy and Falsy values
+
+if is_old:
     print("You are old enough to drive.!")
 elif is_licenced:
     print("You can drive now.!")
