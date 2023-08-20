@@ -1,5 +1,6 @@
 # itarable
-
+# iterables are objects that can return one of their elements at a time, such as a list. 
+# Many of the built-in functions we’ve used so far, like 'enumerate,' return an iterator.
 user = {
     'name': 'Golem',
     'age': 5006,

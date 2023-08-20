@@ -1,6 +1,9 @@
 # is_old = True
 # is_licenced = True
 
+#if statement
+# if statement is used to check a condition and execute the code inside the if block only if the condition is true
+
 is_old = bool("hello")
 is_licenced = bool(5)
 

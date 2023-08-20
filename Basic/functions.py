@@ -1,4 +1,7 @@
 # def : define
+#def is a keyword
+# def is used to define a function
+
 # def function_name():
 #     code
 

@@ -1,4 +1,14 @@
 # range
+# range() is a built-in function of Python. It's usefulness can not be summarized in a single line.
+# Yet most of the newcomers and even some advanced programmers are unaware of it.
+# It allows us to loop over something and have an automatic counter.
+# range syntax:
+# range(stop)
+# range(start, stop)
+# range(start, stop, step)
+# range(stop)
+
+# display number from 0 to 99
 
 print(range(100))
 
